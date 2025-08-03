@@ -1,0 +1,1 @@
+Führe zuerst './gradlew setupDecompWorkspace' aus, danach './gradlew build'. Java 8 + Gradle 4.9 benötigt.
